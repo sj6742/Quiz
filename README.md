@@ -19,7 +19,7 @@ The **Python Quiz Application** is an interactive program designed to test users
 ```
 python-quiz/
 │── quiz.py           # Main script to run the quiz
-
+```
 
 ## 📝 Installation & Usage
 ### 1️⃣ Clone the repository
